@@ -27,7 +27,7 @@ namespace Wimbledon
 
 
         }
-/*
+
         public void addPlayer(int player)
         {
             if(PlayerList.Count == numberPlayers)
@@ -45,7 +45,7 @@ namespace Wimbledon
         static void Main(string[] args)
         {
         }
-    */
+    
     }
     
     
